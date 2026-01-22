@@ -1,0 +1,4 @@
+# requirements.txt - پیش‌نیازهای ربات
+
+python-telegram-bot==20.7
+aiosqlite==0.19.0
